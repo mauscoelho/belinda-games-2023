@@ -19,7 +19,12 @@ export default function Index() {
       <p className="text-sm mt-8">Central European Summer Time</p>
       <p className="text-sm">Time zone in Rijswijk (GMT+2)</p>
       <div className="grid gap-4 mt-6">
-        <p className="text-sm text-gray-500">DAY 1</p>
+        <div className="grid">
+          <p className="text-sm text-gray-500">DAY 1</p>
+          <p className="text-sm text-gray-500">
+            Tuesday 21:00 until Wednesday 1:20
+          </p>
+        </div>
         <div className=" grid">
           <p className="">Workout 1 - Olympic Total</p>
           <p className="">Heat 1 - Women (35-39)</p>
