@@ -24,7 +24,7 @@ export default function Index() {
           <p className="text-xl font-bold">9:00 PM - 9:30 PM</p>
         </div>
         <div className=" grid">
-          <p className="text-xl">Workout 2 - Farmers Field</p>
+          <p className="">Workout 2 - Farmers Field</p>
           <p className="">Heat 1 - Women (35-39)</p>
           <p className="text-xl font-bold">9:00 PM - 9:30 PM</p>
         </div>
