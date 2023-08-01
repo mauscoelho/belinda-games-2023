@@ -12,7 +12,7 @@ export const meta: V2_MetaFunction = () => {
 
 export default function Index() {
   return (
-    <div className="p-6 grid text-center">
+    <div className="p-6 grid justify-center text-center">
       <p className="">2023 NOBULL CROSSFIT GAMES</p>
       <p className="text-2xl">BELINDA BEKKER</p>
       <p className="">GAMES SCHEDULE</p>
@@ -41,6 +41,17 @@ export default function Index() {
           <p className="text-xl font-bold">1:05 - 1:19</p>
         </div>
       </div>
+
+      <a
+        href="https://www.buymeacoffee.com/maucoelho"
+        className="flex flex-1 mt-20 justify-center"
+        target="_blank"
+        rel="noreferrer"
+      >
+        <span className="px-3 py-1.5 text-xs hover:bg-slate-400 text-slate-800 bg-slate-100 rounded">
+          🏋️‍♂️ Buy me a chalk block
+        </span>
+      </a>
     </div>
   );
 }
