@@ -34,6 +34,12 @@ export default function Index() {
           >
             Watch on Youtube
           </a>
+          <a
+            className="text-blue-500"
+            href="https://www.instagram.com/pieneee/"
+          >
+            Live broadcast at heat time
+          </a>
         </div>
         <div className=" grid">
           <p className="">Workout 1 - Olympic Total</p>
