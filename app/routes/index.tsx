@@ -16,22 +16,24 @@ export default function Index() {
       <p className="">2023 NOBULL CROSSFIT GAMES</p>
       <p className="text-2xl">BELINDA BEKKER</p>
       <p className="">GAMES SCHEDULE</p>
+      <p className="text-sm mt-8">Central European Summer Time</p>
+      <p className="text-sm">Time zone in Rijswijk (GMT+2)</p>
       <div className="grid gap-4 mt-6">
         <p className="text-sm text-gray-500">DAY 1</p>
         <div className=" grid">
           <p className="">Workout 1 - Olympic Total</p>
           <p className="">Heat 1 - Women (35-39)</p>
-          <p className="text-xl font-bold">9:00 PM - 9:30 PM</p>
+          <p className="text-xl font-bold">21:00 - 21:30</p>
         </div>
         <div className=" grid">
           <p className="">Workout 2 - Farmers Field</p>
           <p className="">Heat 1 - Women (35-39)</p>
-          <p className="text-xl font-bold">9:00 PM - 9:30 PM</p>
+          <p className="text-xl font-bold">21:00 - 21:30</p>
         </div>
         <div className=" grid">
           <p className="">Workout 3 - Helen</p>
           <p className="">Heat 1 - Women (35-39)</p>
-          <p className="text-xl font-bold">1:05 AM - 1:19 AM</p>
+          <p className="text-xl font-bold">1:05 - 1:19</p>
         </div>
       </div>
     </div>
