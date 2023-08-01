@@ -13,8 +13,8 @@ export const meta: V2_MetaFunction = () => {
 export default function Index() {
   return (
     <div>
-      <p>2023 NOBULL CROSSFIT GAMES</p>
-      <h1>BELINDA BEKKER - GAMES SCHEDULE</h1>
+      <p className="">2023 NOBULL CROSSFIT GAMES</p>
+      <h1 className="text-2xl">BELINDA BEKKER - GAMES SCHEDULE</h1>
     </div>
   );
 }
