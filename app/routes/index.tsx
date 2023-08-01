@@ -29,6 +29,12 @@ export default function Index() {
           <p className="">Workout 1 - Olympic Total</p>
           <p className="">Heat 1 - Women (35-39)</p>
           <p className="text-xl font-bold">21:00 - 21:30</p>
+          <a
+            className="text-blue-500"
+            href="https://www.youtube.com/watch?v=Kk3511en1uw"
+          >
+            Watch on Youtube
+          </a>
         </div>
         <div className=" grid">
           <p className="">Workout 2 - Farmers Field</p>
