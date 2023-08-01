@@ -49,13 +49,13 @@ export default function Index() {
       </div>
 
       <a
-        href="https://www.buymeacoffee.com/maucoelho"
+        href="https://bunq.me/mauscoelho"
         className="flex flex-1 mt-20 justify-center"
         target="_blank"
         rel="noreferrer"
       >
         <span className="px-3 py-1.5 text-xs hover:bg-slate-400 text-slate-800 bg-slate-100 rounded">
-          🏋️‍♂️ Buy me a chalk block
+          🏋️‍♂️ Buy me a FitAid
         </span>
       </a>
     </div>
