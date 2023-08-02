@@ -12,7 +12,7 @@ export const meta: V2_MetaFunction = () => {
 
 export default function Index() {
   return (
-    <div className="p-6 grid gap-10 justify-center text-center">
+    <div className="p-6 grid gap-8 justify-center text-center">
       <div className="grid">
         <p className="">2023 NOBULL CROSSFIT GAMES</p>
         <p className="text-2xl">BELINDA BEKKER</p>
@@ -22,7 +22,12 @@ export default function Index() {
         <p className="text-sm">Central European Summer Time</p>
         <p className="text-sm">Time zone in Rijswijk (GMT+2)</p>
       </div>
-
+      <a
+        className="text-blue-500"
+        href="https://www.instagram.com/p/CvahAB_LRGY/"
+      >
+        Watch Day 1 on Instagram
+      </a>
       <div className="grid gap-4">
         <div className="grid">
           <p className="text-sm text-gray-500">DAY 2</p>
