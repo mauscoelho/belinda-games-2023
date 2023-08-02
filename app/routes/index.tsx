@@ -22,41 +22,6 @@ export default function Index() {
         <p className="text-sm">Central European Summer Time</p>
         <p className="text-sm">Time zone in Rijswijk (GMT+2)</p>
       </div>
-      <div className="grid gap-4">
-        <div className="grid">
-          <p className="text-sm text-gray-500">DAY 1</p>
-          <p className="text-sm text-gray-500">
-            Tuesday 21:00 until Wednesday 1:20
-          </p>
-          <a
-            className="text-blue-500"
-            href="https://www.youtube.com/watch?v=Kk3511en1uw"
-          >
-            Watch on Youtube
-          </a>
-          <a
-            className="text-blue-500"
-            href="https://www.instagram.com/pieneee/"
-          >
-            Live broadcast at heat time
-          </a>
-        </div>
-        <div className=" grid">
-          <p className="">Workout 1 - Olympic Total</p>
-          <p className="">Heat 1 - Women (35-39)</p>
-          <p className="text-xl font-bold">21:00 - 21:30</p>
-        </div>
-        <div className=" grid">
-          <p className="">Workout 2 - Farmers Field</p>
-          <p className="">Heat 1 - Women (35-39)</p>
-          <p className="text-xl font-bold">21:00 - 21:30</p>
-        </div>
-        <div className=" grid">
-          <p className="">Workout 3 - Helen</p>
-          <p className="">Heat 1 - Women (35-39)</p>
-          <p className="text-xl font-bold">1:05 - 1:19</p>
-        </div>
-      </div>
 
       <div className="grid gap-4">
         <div className="grid">
@@ -64,6 +29,12 @@ export default function Index() {
           <p className="text-sm text-gray-500">
             Wednesday 17:20 until Thursday 2:20
           </p>
+          <a
+            className="text-blue-500"
+            href="https://www.instagram.com/pieneee/"
+          >
+            Instagram Live at heat time
+          </a>
         </div>
         <div className=" grid">
           <p className="">Workout 4 - Pulling Power</p>
