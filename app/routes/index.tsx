@@ -22,17 +22,11 @@ export default function Index() {
         <p className="text-sm">Central European Summer Time</p>
         <p className="text-sm">Time zone in Rijswijk (GMT+2)</p>
       </div>
-      <a
-        className="text-blue-500"
-        href="https://www.instagram.com/p/CvahAB_LRGY/"
-      >
-        Watch Day 1 on Instagram
-      </a>
       <div className="grid gap-4">
         <div className="grid">
-          <p className="text-sm text-gray-500">DAY 2</p>
+          <p className="text-sm text-gray-500">DAY 3 FINAL</p>
           <p className="text-sm text-gray-500">
-            Wednesday 17:20 until Thursday 2:20
+            Thursday 19:40 until Friday 1:40
           </p>
           <a
             className="text-blue-500"
@@ -42,19 +36,14 @@ export default function Index() {
           </a>
         </div>
         <div className=" grid">
-          <p className="">Workout 4 - Pulling Power</p>
+          <p className="">Workout 7 - Endure the Coliseum</p>
           <p className="">Heat 1 - Women (35-39)</p>
-          <p className="text-xl font-bold">17:20 - 17:40</p>
+          <p className="text-xl font-bold">19:40 - 20:02</p>
         </div>
         <div className=" grid">
-          <p className="">Workout 5 - Gymnastics Chipper</p>
+          <p className="">Workout 8 - Final</p>
           <p className="">Heat 1 - Women (35-39)</p>
-          <p className="text-xl font-bold">19:20 - 19:40</p>
-        </div>
-        <div className=" grid">
-          <p className="">Workout 6 - Cross-Country 5K</p>
-          <p className="">Heat 1 - Women (35-39)</p>
-          <p className="text-xl font-bold">1:45 - 2:20</p>
+          <p className="text-xl font-bold">01:30 - 01:40</p>
         </div>
       </div>
 
