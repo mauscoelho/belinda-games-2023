@@ -49,7 +49,7 @@ export default function Index() {
 
       <a
         href="https://bunq.me/mauscoelho"
-        className="flex flex-1 justify-center"
+        className="flex flex-1 justify-center mt-10"
         target="_blank"
         rel="noreferrer"
       >
